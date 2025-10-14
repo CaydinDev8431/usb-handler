@@ -36,6 +36,4 @@ It provides real-time visibility into the USB devices connected to your **Window
    cd usb-handler/MAIN_USB_HANDLER/dist
    ```
 * App Directory:
-   ```bash
    [Click Here!](https://github.com/CaydinDev8431/usb-handler/MAIN_USB_HANDLER/dist)
-   ```
