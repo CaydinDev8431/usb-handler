@@ -27,7 +27,11 @@ It provides real-time visibility into the USB devices connected to your **Window
    ```bash
    git clone https://github.com/CaydinDev8431/usb-handler.git
    ```
-2. Open Folder:
+* Main Folder:
    ```bash
    cd usb-handler
+   ```
+* App Folder:
+   ```bash
+   cd usb-handler/MAIN_USB_HANDLER/dist
    ```
