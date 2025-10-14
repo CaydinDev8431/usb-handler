@@ -2,6 +2,8 @@
 **usb-handler** is a lightweight system utility designed to **scan, monitor, and display all USB Bus Drivers** currently connected to your system.  
 It provides real-time visibility into the USB devices connected to your **Windows PC**, helping you track system health, detect hardware changes, and troubleshoot connectivity issues.
 
+![Hits](https://hits.donaldzou.dev/view?url=https://github.com/CaydinDev8431/usb-handler)
+
 ---
 
 ## ⚙️ Features
