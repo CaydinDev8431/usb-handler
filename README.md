@@ -28,6 +28,6 @@ It provides real-time visibility into the USB devices connected to your **Window
    git clone https://github.com/CaydinDev8431/usb-handler.git
    ```
 2. Open Folder:
- ```bash
+   ```bash
    cd usb-handler
- ```
+   ```
