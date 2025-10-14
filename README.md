@@ -22,5 +22,5 @@ It provides real-time visibility into the USB devices connected to your **Window
 ## 🚀 Installation
 1. Clone this repository:
    ```bash
-   git clone https://github.com/yourusername/usb-handler.git
+   git clone https://github.com/CaydinDev8431/usb-handler.git
    cd usb-handler
