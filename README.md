@@ -14,7 +14,10 @@ It provides real-time visibility into the USB devices connected to your **Window
 ---
 
 ## 🪟 Supported Platforms
-- **Windows 10 / 11** (Recommended)  
+- **Windows 10** (Minimal)
+> ⚠️ Anything lower than this will not be supported!
+
+- **Windows 11** (Recommended)  
 > ⚠️ Other operating systems may work with limited functionality due to driver API differences.
 
 ---
