@@ -3,7 +3,7 @@
 It provides real-time visibility into the USB devices connected to your **Windows PC**, helping you track system health, detect hardware changes, and troubleshoot connectivity issues.
 
 ![](https://komarev.com/ghpvc/?username=CaydinDev8431&label=REPO+VIEWS)
-![GitHub Downloads](https://img.shields.io/github/downloads/<org-name>/<repo-name>/total.svg)
+![GitHub Downloads](https://img.shields.io/github/downloads/CaydinDev8431/usb-handler/total.svg)
 
 ---
 
